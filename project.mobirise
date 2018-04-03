@@ -152,10 +152,13 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/mbr-786x1080.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
-              "active": true,
               "src": "",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
@@ -163,9 +166,9 @@
               "loop": false
             }
           },
-          "title": "VIDEO EMBED",
+          "title": "A Developing Mobirise!",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>The internet have begun to take control of the earth! &nbsp;Mobirise have used this advantage to let the younger audience express their rage towards projects involving Mobirise by making comment section with no filters! This video will teach you all the bad words that you don't know but must know!</p>",
+          "text": "<p>The internet have begun to take control of the earth! &nbsp;Mobirise have used this advantage to let the younger audience express their rage towards projects involving Mobirise by making comment section with no filters! Coming soon in the year 2030, when no rules exists in this world!</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a> ",
           "_tags": [
             "Theme"
